@@ -21,7 +21,7 @@ To use the IKEA/FAB SDK we recommend to use Cocoapods 1.7.0 or later
 $ gem install cocoapods
 ```
 
-To integrate the Wddonboarding SDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate the SafexPay SDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 
 ```ruby
