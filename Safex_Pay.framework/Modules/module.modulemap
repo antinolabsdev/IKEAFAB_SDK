@@ -1,0 +1,11 @@
+framework module Safex_Pay {
+  umbrella header "Safex_Pay.h"
+
+  export *
+  module * { export * }
+}
+
+module Safex_Pay.Swift {
+    header "Safex_Pay-Swift.h"
+    requires objc
+}
